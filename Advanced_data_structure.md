@@ -33,3 +33,9 @@
 Implement checks to prevent bid manipulation:
 Ensure bids are higher than the current highest bid
 Prevent users from bidding on their own NFTs
+
+ 8.Testing smart contract
+
+
+
+9. Dewployment
